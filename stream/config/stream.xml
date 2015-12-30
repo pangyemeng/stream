@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stream>
+	<interface>eth0</interface>
+	<log_mode>1</log_mode>
+	<cap_module>pcap</cap_module>
+</stream>
